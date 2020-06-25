@@ -1,2 +1,2 @@
 # covid-19_Italy
-Analysis of the official Italian Covid-19 data provided by "Protezione Civile", see the corresponding [GitHub repository](https://github.com/pcm-dpc/COVID-19). Fitting and insights.
+Analysis of the official Italian Covid-19 data provided by "Protezione Civile", see the corresponding [GitHub repository](https://github.com/pcm-dpc/COVID-19) for more details. Fitting and insights.
