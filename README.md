@@ -31,4 +31,24 @@ A preview of the Jupyter Notebooks of this repository can be obtained, for insta
     - [Regioni_Lombardia.ipynb](https://nbviewer.jupyter.org/github/angelodm/covid-19_Italy/blob/master/Italy_regional_trends/Lombardia/Regioni_Lombardia.ipynb)
   - Marche
     - [Regioni_Marche.ipynb](https://nbviewer.jupyter.org/github/angelodm/covid-19_Italy/blob/master/Italy_regional_trends/Marche/Regioni_Marche.ipynb)
+  - P.A. Bolzano
+    - [Regioni_Bolzano.ipynb](https://nbviewer.jupyter.org/github/angelodm/covid-19_Italy/blob/master/Italy_regional_trends/Bolzano/Regioni_Bolzano.ipynb)
+  - P.A. Trento
+    - [Regioni_Trento.ipynb](https://nbviewer.jupyter.org/github/angelodm/covid-19_Italy/blob/master/Italy_regional_trends/Trento/Regioni_Trento.ipynb)
+  - Piemonte
+    - [Regioni_Piemonte.ipynb](https://nbviewer.jupyter.org/github/angelodm/covid-19_Italy/blob/master/Italy_regional_trends/Piemonte/Regioni_Piemonte.ipynb)
+  - Puglia
+    - [Regioni_Puglia.ipynb](https://nbviewer.jupyter.org/github/angelodm/covid-19_Italy/blob/master/Italy_regional_trends/Puglia/Regioni_Puglia.ipynb)
+  - Sardegna
+    - [Regioni_Sardegna.ipynb](https://nbviewer.jupyter.org/github/angelodm/covid-19_Italy/blob/master/Italy_regional_trends/Sardegna/Regioni_Sardegna.ipynb)
+  - Sicilia
+    - [Regioni_Sicilia.ipynb](https://nbviewer.jupyter.org/github/angelodm/covid-19_Italy/blob/master/Italy_regional_trends/Sicilia/Regioni_Sicilia.ipynb)
+  - Toscana
+    - [Regioni_Toscana.ipynb](https://nbviewer.jupyter.org/github/angelodm/covid-19_Italy/blob/master/Italy_regional_trends/Toscana/Regioni_Toscana.ipynb)
+  - Umbria
+    - [Regioni_Umbria.ipynb](https://nbviewer.jupyter.org/github/angelodm/covid-19_Italy/blob/master/Italy_regional_trends/Umbria/Regioni_Umbria.ipynb)
+  - Valle d'Aosta
+    - [Regioni_ValleAosta.ipynb](https://nbviewer.jupyter.org/github/angelodm/covid-19_Italy/blob/master/Italy_regional_trends/Valle%20d'Aosta/Regioni_ValleAosta.ipynb)
+  - Veneto
+    - [Regioni_Veneto.ipynb](https://nbviewer.jupyter.org/github/angelodm/covid-19_Italy/blob/master/Italy_regional_trends/Veneto/Regioni_Veneto.ipynb)
   
