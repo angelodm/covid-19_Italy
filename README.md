@@ -32,9 +32,9 @@ A preview of the Jupyter Notebooks of this repository can be obtained, for insta
   - Marche
     - [Regioni_Marche.ipynb](https://nbviewer.jupyter.org/github/angelodm/covid-19_Italy/blob/master/Italy_regional_trends/Marche/Regioni_Marche.ipynb)
   - P.A. Bolzano
-    - [Regioni_Bolzano.ipynb](https://nbviewer.jupyter.org/github/angelodm/covid-19_Italy/blob/master/Italy_regional_trends/Bolzano/Regioni_Bolzano.ipynb)
+    - [Regioni_Bolzano.ipynb](https://nbviewer.jupyter.org/github/angelodm/covid-19_Italy/blob/master/Italy_regional_trends/P.A.%20Bolzano/Regioni_Bolzano.ipynb)
   - P.A. Trento
-    - [Regioni_Trento.ipynb](https://nbviewer.jupyter.org/github/angelodm/covid-19_Italy/blob/master/Italy_regional_trends/Trento/Regioni_Trento.ipynb)
+    - [Regioni_Trento.ipynb](https://nbviewer.jupyter.org/github/angelodm/covid-19_Italy/blob/master/Italy_regional_trends/P.A.%20Trento/Regioni_Trento.ipynb)
   - Piemonte
     - [Regioni_Piemonte.ipynb](https://nbviewer.jupyter.org/github/angelodm/covid-19_Italy/blob/master/Italy_regional_trends/Piemonte/Regioni_Piemonte.ipynb)
   - Puglia
