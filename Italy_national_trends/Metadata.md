@@ -8,6 +8,8 @@ Official Italian Covid-19 data provided by "Dipartimento della Protezione Civile
 
 # Metadata
 
+Adapted and translated from Italian to English from the [official metadata file](https://github.com/pcm-dpc/COVID-19/blob/master/dati-andamento-covid19-italia.md)
+
 ## Data Source
 
 - [Official repository](https://github.com/pcm-dpc/COVID-19) of the "Presidenza del Consiglio dei Ministri" and "Dipartimento della Protezione Civile"
